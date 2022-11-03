@@ -18,7 +18,7 @@ public class SharedData
 	}
 /**
  * 
- * @return the current value of winarray
+ * @return the current value of winarray.
  */
 	public boolean[] getWinArray() 
 	{
