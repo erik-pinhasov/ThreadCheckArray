@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.Scanner;
 /**
  * 
- * This is the test that we got with main to run our program
+ *  This is the test that we got with main to run our program
  *
  */
 public class TestThreadCheckArray {
