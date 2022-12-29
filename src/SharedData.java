@@ -22,7 +22,7 @@ public class SharedData
 	}
 /**
  * The function to get the winArray
- * @return the current value of array.
+ * @return the current value of bollean array.
  */
 	public boolean[] getWinArray() 
 	{
